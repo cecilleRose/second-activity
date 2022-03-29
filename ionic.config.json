@@ -1,0 +1,7 @@
+{
+  "name": "second activity",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
